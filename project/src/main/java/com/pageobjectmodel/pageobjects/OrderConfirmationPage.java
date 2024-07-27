@@ -14,7 +14,7 @@ public class OrderConfirmationPage extends BaseClass {
     private WebElement confirmMessag;
 
     public OrderConfirmationPage() {
-        PageFactory.initElements(driver.get(), this);
+        PageFactory.initElements(getDriver(), this);
     }
 
     public String validateConfirmMessage() {

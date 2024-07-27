@@ -43,7 +43,7 @@ public class AddToCartPageTest extends BaseClass {
 
     @AfterMethod(groups = { "Smoke", "Sanity", "Regression" })
     public void tearDown() {
-        driver.get().quit();
+        getDriver().quit();
     }
 
 }

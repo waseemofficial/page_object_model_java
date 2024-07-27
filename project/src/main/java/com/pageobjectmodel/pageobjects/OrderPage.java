@@ -20,7 +20,7 @@ public class OrderPage extends BaseClass {
     private WebElement proceedToCheckOut;
 
     public OrderPage() {
-        PageFactory.initElements(driver.get(), this);
+        PageFactory.initElements(getDriver(), this);
     }
 
     public double getUnitPrice() {
@@ -38,7 +38,7 @@ public class OrderPage extends BaseClass {
     }
 
     public LoginPage clickOnCheckOut() throws Throwable {
-        action.click(driver.get(), proceedToCheckOut);
+        action.click(getDriver(), proceedToCheckOut);
         return new LoginPage();
     }
 }

@@ -75,7 +75,7 @@ public class AccountCreationPage extends BaseClass {
     private WebElement registerBtn;
 
     public AccountCreationPage() {
-        PageFactory.initElements(driver.get(), this);
+        PageFactory.initElements(getDriver(), this);
     }
 
     public void createAccount(String gender, String fName,
@@ -93,9 +93,9 @@ public class AccountCreationPage extends BaseClass {
             String mobilePhone) throws Throwable {
         Thread.sleep(2000);
         if (gender.equalsIgnoreCase("Mr")) {
-            action.click(driver.get(), mr);
+            action.click(getDriver(), mr);
         } else {
-            action.click(driver.get(), mrs);
+            action.click(getDriver(), mrs);
         }
 
         action.type(firstName, fName);
@@ -119,6 +119,6 @@ public class AccountCreationPage extends BaseClass {
     }
 
     public boolean validateAcountCreatePage() throws Throwable {
-        return action.isDisplayed(driver.get(), formTitle);
+        return action.isDisplayed(getDriver(), formTitle);
     }
 }
