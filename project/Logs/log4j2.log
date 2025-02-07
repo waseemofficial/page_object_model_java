@@ -1,0 +1,58 @@
+2024-07-27 14:37:02 INFO  Log:12 - =====================================verifyTitle TEST START=========================================
+2024-07-27 14:37:02 INFO  Log:17 - =====================================verifyTitle TEST END=========================================
+2024-07-27 14:37:19 INFO  ExtentManager:56 - ExtentReports flushed successfully
+2024-07-27 14:38:06 INFO  Log:12 - =====================================verifyLogo TEST START=========================================
+2024-07-27 14:38:06 INFO  Log:17 - =====================================verifyLogo TEST END=========================================
+2024-07-27 14:38:21 INFO  Log:12 - =====================================verifyTitle TEST START=========================================
+2024-07-27 14:38:21 INFO  Log:17 - =====================================verifyTitle TEST END=========================================
+2024-07-27 14:38:24 INFO  ExtentManager:56 - ExtentReports flushed successfully
+2024-07-27 14:38:53 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-27 14:38:53 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-27 14:38:53 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2024-07-27 14:38:53 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2024-07-27 14:38:53 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2024-07-27 14:38:53 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-07-27 14:38:54 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-27 14:38:54 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-27 14:38:54 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-27 14:39:14 INFO  Log:12 - =====================================loginTest TEST START=========================================
+2024-07-27 14:39:14 INFO  Log:25 - user is going to click on SignIn
+2024-07-27 14:39:16 INFO  Log:25 - Enter Username and Password
+2024-07-27 14:39:18 INFO  Log:25 - Verifying if user is able to login
+2024-07-27 14:39:18 INFO  Log:25 - Login is Sucess
+2024-07-27 14:39:18 INFO  Log:17 - =====================================loginTest TEST END=========================================
+2024-07-27 14:39:22 INFO  ExtentManager:56 - ExtentReports flushed successfully
+2024-07-27 14:39:46 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-27 14:39:46 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-27 14:39:46 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2024-07-27 14:39:46 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2024-07-27 14:39:46 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2024-07-27 14:39:46 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-07-27 14:39:47 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-27 14:39:47 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-27 14:39:47 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-27 14:40:02 INFO  Log:12 - =====================================productAvailabilityTest TEST START=========================================
+2024-07-27 14:40:07 INFO  Log:17 - =====================================productAvailabilityTest TEST END=========================================
+2024-07-27 14:40:26 INFO  ExtentManager:56 - ExtentReports flushed successfully
+2024-07-27 14:41:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-27 14:41:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-27 14:41:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2024-07-27 14:41:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2024-07-27 14:41:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2024-07-27 14:41:03 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-07-27 14:41:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-27 14:41:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-27 14:41:05 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-27 14:41:25 INFO  Log:12 - =====================================verifyTotalPrice TEST START=========================================
+2024-07-27 14:42:04 INFO  ExtentManager:56 - ExtentReports flushed successfully
+2024-07-27 15:46:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-07-27 15:46:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-07-27 15:46:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+2024-07-27 15:46:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet3.xml.rels
+2024-07-27 15:46:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet6.xml.rels
+2024-07-27 15:46:27 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2024-07-27 15:46:28 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-27 15:46:28 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-27 15:46:28 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-07-27 15:46:48 INFO  Log:12 - =====================================endToEndTest TEST START=========================================
+2024-07-27 15:47:34 INFO  ExtentManager:56 - ExtentReports flushed successfully
